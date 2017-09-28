@@ -1,0 +1,11 @@
+{application, svg,
+ [{description, "svg parser library"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [kernel,stdlib]},
+  {env,[]},
+  {modules, []},
+  {maintainers, ["dgud@erlang.org"]},
+  {licenses, []},
+  {links, []}
+ ]}.
